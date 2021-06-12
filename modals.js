@@ -1,0 +1,1 @@
+$('#meuModal').modal('show')
